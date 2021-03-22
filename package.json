@@ -1,6 +1,6 @@
 {
   "name": "ytgetcaption",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "This is a data scraping tool that extracts video_info from youtube using axios for any videoID and return parsed caption data for the ASR (automatic speech recognition) data as a JSON object.",
   "main": "src/index.js",
   "scripts": {
@@ -17,6 +17,10 @@
   ],
   "author": "Rodrigo Costa",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/costargc/ytgetcaption.git"
+  },
   "dependencies": {
     "axios": "^0.21.1",
     "xml2js": "^0.4.23"

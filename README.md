@@ -25,4 +25,4 @@ caption.ytgetCaption(VideoID).then(function (data) {
 
 # Github
 
-[https://github.com/costargc](https://github.com/costargc)
+[https://github.com/costargc/ytgetcaption.git](https://github.com/costargc/ytgetcaption.git)
